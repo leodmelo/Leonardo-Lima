@@ -1,7 +1,6 @@
 # Leonardo Lima
 
-Com mais de uma década de experiência em TI, atuo como Product Owner e PMO Manager, com foco na excelência operacional. Comprometido com a melhoria contínua, aplico diariamente metodologias ágeis para otimizar o desempenho da equipe e aumentar a eficiência estratégica da organização. Também busco fortalecer parcerias e promover um ambiente de trabalho colaborativo e produtivo.
-
+Com mais de uma década de experiência em TI, atuo como Product Owner e PMO Manager, com foco na excelência operacional. 
 Nos últimos anos, fui responsável pela gestão, manutenção, desenvolvimento e expansão de softwares de grande relevância institucional.
 
 Sou apaixonado por tecnologia e estou sempre em busca de me aprimorar e aprender novas ferramentas e tendências do mercado.
