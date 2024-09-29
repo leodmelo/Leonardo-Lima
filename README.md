@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de me aprimorar e aprender
 
 ✉️ E-mail: leodmelo@hotmail.com
 
-💼 Linkedin: 
+💼 Linkedin: https://www.linkedin.com/in/leonardolima7/
 
 
 
