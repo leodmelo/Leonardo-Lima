@@ -21,3 +21,6 @@ Sou apaixonado por tecnologia e estou sempre em busca de me aprimorar e aprender
 ## Conhecimentos:
 
 ![image](https://github.com/user-attachments/assets/16ba3697-96ab-44dd-8bb9-a8d113a44b00)
+
+
+![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leodmelo&show_icons=true&theme=dark)
